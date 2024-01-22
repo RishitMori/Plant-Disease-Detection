@@ -1,4 +1,6 @@
 **Plant Disease Detection using CNN Model**
+
+
 Overview
 This repository contains the implementation of a Convolutional Neural Network (CNN) model for detecting plant diseases. The model is trained on a dataset of plant images, allowing it to classify whether a given plant is healthy or affected by a specific disease.
 
